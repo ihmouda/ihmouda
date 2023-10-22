@@ -1,8 +1,29 @@
-### Hi there 👋 I'm ihmouda 𓂆 🇵🇸 
-
-iOS & Game Developer | Creative Professional
+### Hi there I'm ihmouda 𓂆 🇵🇸👋
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
+✨  **About Me:**
+
+iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
+
+- 🔭 I’m currently working on **iOS development**
+
+- 📝 I regularly write articles on [medium](https://medium.com/@MIhmouda)
+
+- 💬 Ask me about **anything iOS related, I am happy to help;**
+
+- 📫 How to reach me **mkihmouda@gmail.com**
+
+- Checkout my [resume]([https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view?usp=share_link))
+
+
+- Fun facts: **I ❤️ Pizza 🍕 & gardening 🌱**
+
+- 🧑‍💻 Tech I work on :
+
+<p align="left">  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+</br>
 
 **Connect with me:**
 
@@ -13,29 +34,7 @@ iOS & Game Developer | Creative Professional
 <a href="https://medium.com/@mihmouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mihmouda" height="30" width="40" /></a>
 </p>
 
-✨  **About Me:**
-
-iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
-
-Enchanted and can't imagine a world without coding. I wake up every morning and say to myself: as a "Creative professional" what I can develop in this dynamic mobile world with the vast potential it offers, to reach and help millions of users around the world.
-
-- 🔭 I’m currently working on **iOS development**
-
-- 📝 I regularly write articles on [medium](https://medium.com/@MIhmouda)
-
-- 💬 Ask me about **anything iOS related, I am happy to help;**
-
-- 📫 How to reach me **mkihmouda@gmail.com**
-
-- Checkout my [resume](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view)
-
-
-- Fun facts: **I ❤️ Pizza 🍕 & gardening 🌱**
-
-- 🧑‍💻 Tech I work on :
-
-<p align="left">  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+</br>
 
 👨‍💻 **Opensource projects:**
 
