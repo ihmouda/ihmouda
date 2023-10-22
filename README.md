@@ -1,16 +1,17 @@
-### Hi there I'm ihmouda 𓂆 🇵🇸👋
+### Hi there 👋 I'm ihmouda 𓂆 🇵🇸 
 
-<h3 align="center">iOS  / Game developer 🎮 | Creative professional.</h3>
+iOS & Game Developer | Creative Professional
 
-✨  **Connect with me:**
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
+**Connect with me:**
+
 <p align="left">
 
 <a href="https://linkedin.com/in/mihmouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihmouda" height="30" width="40" /></a>
 <a href="https://twitter.com/mihmouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihmouda" height="30" width="40" /></a>
 <a href="https://medium.com/@mihmouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mihmouda" height="30" width="40" /></a>
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 ✨  **About Me:**
 
@@ -48,13 +49,14 @@ is an easy to use, animated segmented control for iOS written in Swift.supports 
 
 🎮 **AND FINALLY...**  
 
+Come in and play  **Astro Fleet**:
 
-Come in and play  **“Astro Fleet”**
+[**<img  align="right" alt="Coding" width="80" src="https://lemona.tech/assets/images/astro_fleet_icon.png">**](https://apps.apple.com/us/app/astro-fleet/id6449440318)
 
-[**<img alt="Coding" width="80" src="https://lemona.tech/assets/images/astro_fleet_icon.png">**](https://apps.apple.com/us/app/astro-fleet/id6449440318)
-
-“Astro Fleet” is a strategic free to play 2D #game, where you can secretly placing your fleet of spaceships, The players take turns to try to guess the location of the other’s ships. The player keeps track of the hits and misses for all opponent’s fleet until he win the game by sinking all opponent’s fleet. 🚀 🚀
+**“Astro Fleet”** is a strategic free to play 2D #game, where you can secretly placing your fleet of spaceships, The players take turns to try to guess the location of the other’s ships. The player keeps track of the hits and misses for all opponent’s fleet until he win the game by sinking all opponent’s fleet. 🚀 🚀
 
 It is completely free and built using SpriteKit for #iOS devices. [come and check it out](https://apps.apple.com/us/app/astro-fleet/id6449440318).
+
+
 
 
