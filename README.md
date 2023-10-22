@@ -2,8 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-✨  **About Me:**
-
 iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
 
 - 🔭 I’m currently working on **iOS development**
@@ -38,11 +36,11 @@ iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
 
 👨‍💻 **Opensource projects:**
 
-- <u>JNMentionTextView</u>
+  - <u>JNMentionTextView</u>
 
 A subclass of UITextView providing a ‘Mention’ annotations in to your iOS app; Annotations which refers to names of individuals or entities and treated as a single unit and can be styled differently from the rest of the text.
 
-- <u>JNSegmentedControl</u>
+  - <u>JNSegmentedControl</u>
 
 is an easy to use, animated segmented control for iOS written in Swift.supports 3 main styles of segments: text only, image only, text with image on (under, above, before and after text).
 
