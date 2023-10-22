@@ -12,8 +12,7 @@ iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
 
 - 📫 How to reach me **mkihmouda@gmail.com**
 
-- Checkout my [resume]([https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view](https://drive.google.com/file/d/1kKDnFugrRWAg0ShmpWUGiRUBmakZFEB3/view?usp=share_link))
-
+- Checkout my [resume](https://lemona.tech/assets/mIhmouda-me-CV.pdf)
 
 - Fun facts: **I ❤️ Pizza 🍕 & gardening 🌱**
 
