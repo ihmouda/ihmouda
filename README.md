@@ -6,7 +6,7 @@ iOS Developer | Solo Game Developer | Mobile Architect | Creative Professional.
 
 - 🔭 I’m currently working on **iOS development**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@MIhmouda),  on [hashnode](https://blog.lemona.tech/)
+- 📝 I regularly write articles on [medium](https://medium.com/@MIhmouda) & [hashnode](https://blog.lemona.tech/)
 
 - 💬 Ask me about **anything iOS related, I am happy to help;**
 
