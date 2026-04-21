@@ -18,16 +18,17 @@
 
 ## 🧑‍💻 Tech Stack
 
-[![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)](https://developer.apple.com/swift/)&nbsp;&nbsp;
-[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)&nbsp;&nbsp;
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)&nbsp;&nbsp;
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)&nbsp;&nbsp;
-[![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/)&nbsp;&nbsp;
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)&nbsp;&nbsp;
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)&nbsp;&nbsp;
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)&nbsp;&nbsp;
-[![Sketch](https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg)](https://www.sketch.com/)&nbsp;&nbsp;
-[![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)](https://www.adobe.com/products/xd.html)
+<a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift"/></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/></a>&nbsp;&nbsp;
+<a href="https://admob.google.com/"><img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google-admob&logoColor=white" height="40" alt="AdMob"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/></a>&nbsp;&nbsp;
+<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/></a>&nbsp;&nbsp;
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/></a>&nbsp;&nbsp;
+<a href="https://www.sketch.com/"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40" alt="Sketch"/></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/xd.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40" alt="Adobe XD"/></a>
 
 ---
 
