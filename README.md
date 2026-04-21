@@ -11,7 +11,7 @@
 - 💬 Ask me about **anything iOS — Swift, UIKit, SwiftUI, SpriteKit**
 - 📫 Reach me at **mkihmouda@gmail.com**
 - 📄 Check out my [resume](https://lemona.tech/assets/mIhmouda-me-CV.pdf)
-- 🎮 YouTube: [Mind Games · ألعاب العقل](https://www.youtube.com/@mindgames)
+- 🎮 YouTube: [Mind Games · ألعاب العقل](https://www.youtube.com/@mindgamesapp)
 - ⚡ Fun facts: **I ❤️ Pizza 🍕 & gardening 🌱**
 
 ---
@@ -36,7 +36,7 @@
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mihmouda)&nbsp;&nbsp;
 [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/mihmouda)&nbsp;&nbsp;
 [![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@mihmouda)&nbsp;&nbsp;
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@mindgames)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@mindgamesapp)
 
 ---
 
@@ -53,17 +53,27 @@ An animated, easy-to-use segmented control written in Swift. Supports three segm
 ## 🎮 Games
 
 ### Diffora — Find the Differences
-[![Diffora](https://lemona.tech/assets/images/diffora_icon.png)](https://apps.apple.com/app/diffora/id0000000000)
+
+<a href="https://apps.apple.com/us/app/diffora/id6761053144">
+  <img src="https://raw.githubusercontent.com/ihmouda/ihmouda/main/diffora_icon.png" width="80" alt="Diffora"/>
+</a>
 
 **Diffora** is a brain-training spot-the-difference game designed to sharpen observation and focus. Built with SpriteKit for iOS.
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/diffora/id0000000000)
+<a href="https://apps.apple.com/us/app/diffora/id6761053144">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="130" alt="Download on the App Store"/>
+</a>
 
 ---
 
 ### Astro Fleet
-[![Astro Fleet](https://lemona.tech/assets/images/astro_fleet_icon.png)](https://apps.apple.com/us/app/astro-fleet/id6449440318)
+
+<a href="https://apps.apple.com/us/app/astro-fleet/id6449440318">
+  <img src="https://raw.githubusercontent.com/ihmouda/ihmouda/main/astro_fleet_icon.png" width="80" alt="Astro Fleet"/>
+</a>
 
 **Astro Fleet** is a free-to-play strategic 2D game built with SpriteKit. Secretly place your fleet of spaceships, then take turns guessing your opponent's positions. Track hits and misses until you've sunk the entire enemy fleet. 🚀
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/astro-fleet/id6449440318)
+<a href="https://apps.apple.com/us/app/astro-fleet/id6449440318">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="130" alt="Download on the App Store"/>
+</a>
