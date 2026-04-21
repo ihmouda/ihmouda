@@ -33,10 +33,18 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mihmouda)&nbsp;&nbsp;
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/mihmouda)&nbsp;&nbsp;
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@mihmouda)&nbsp;&nbsp;
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@mindgamesapp)
+<a href="https://linkedin.com/in/mihmouda">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/mihmouda">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" alt="Twitter"/>
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@mihmouda">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" alt="Medium"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@mindgamesapp">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" alt="YouTube"/>
+</a>
 
 ---
 
